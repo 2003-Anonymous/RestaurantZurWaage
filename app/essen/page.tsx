@@ -1,6 +1,5 @@
 import type { Metadata } from 'next'
-import Link from 'next/link'
-import { Phone, Leaf, ArrowRight } from 'lucide-react'
+import { Phone, Leaf } from 'lucide-react'
 import { FadeIn, StaggerChildren, StaggerItem } from '@/components/ui/FadeIn'
 import { SectionTitle } from '@/components/ui/SectionTitle'
 import { ReservationCTA } from '@/components/ui/ReservationCTA'

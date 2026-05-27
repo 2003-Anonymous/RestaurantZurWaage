@@ -1,7 +1,8 @@
 import type { MenuSection, WineEntry } from '@/types'
 
 export const mittagsmenuInfo = {
-  title: 'Mittagsmenü',
+  label: 'Mittagsmenü',
+  title: 'Täglich frisch & wechselnd',
   subtitle: 'Täglich frisch & wechselnd',
   description:
     'Täglich bereiten wir wechselnde Fleisch- und vegetarische Menüs für jedermann zu. Unsere Mittagsmenüs entstehen aus frischen, regionalen Zutaten – was die Saison hergibt, kommt auf den Tisch.',

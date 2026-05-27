@@ -127,7 +127,7 @@ export default function AktuellesPage() {
           </FadeIn>
 
           <StaggerChildren className="space-y-6">
-            {saisonalesMenu.highlights.map((item, i) => (
+            {saisonalesMenu.highlights.map((item) => (
               <StaggerItem key={item.id}>
                 <div className="flex flex-col md:flex-row md:items-start gap-6 p-8 border border-line bg-cream-light hover:border-gold/30 transition-colors">
                   <div className="flex-1 space-y-2">

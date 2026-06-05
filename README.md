@@ -43,7 +43,7 @@ zur-waage/
 │   ├── sections/           # Client-Formulare (EventRequestForm, etc.)
 │   └── ui/                 # FadeIn, SectionTitle, ReservationCTA, Accordion
 │
-├── content/                # ⭐ HIER INHALTE EDITIEREN
+├── content/                # HIER INHALTE EDITIEREN
 │   ├── restaurant.ts       # Name, Adresse, Öffnungszeiten, Navigation
 │   ├── menu.ts             # Mittagsmenü, Abendkarte, Saisonales, Weine
 │   ├── faq.ts              # FAQ-Einträge
@@ -76,21 +76,6 @@ Alle Inhalte sind in `/content/*.ts` zentralisiert:
 - Aktuelle Sondermenüs
 - Saisonale Angebote
 
-## Deployment
-
-### Vercel (empfohlen)
-```bash
-npm run build
-# Dann auf Vercel deployen
-```
-
-### Eigener Server
-```bash
-npm run build
-npm start
-```
-
-## Design-System
 
 | Token | Wert | Verwendung |
 |-------|------|------------|

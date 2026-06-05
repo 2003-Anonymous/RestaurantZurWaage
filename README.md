@@ -77,7 +77,7 @@ Alle Inhalte sind in `/content/*.ts` zentralisiert:
 - Saisonale Angebote
 
 
-| Token | Wert | Verwendung |
+| Farbe | Wert | Verwendung |
 |-------|------|------------|
 | `cream` | `#F7F4ED` | Hintergrund |
 | `ink` | `#1A1714` | Text |
